@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "사랑의 바보",
+  "base_artist": "The Nuts",
+  "createdAt": "2025-12-24T14:50:24.551993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "사랑의 바보",
+      "artist": "The Nuts",
+      "has_synced": true,
+      "path": "select/01_사랑의_바보_The_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Fool (사랑의 바보)",
+      "artist": "J-Cera",
+      "has_synced": true,
+      "path": "select/02_Love_Fool_(사랑의_바보)_J-Cera.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "사랑의 바보",
+      "artist": "더 넛츠",
+      "has_synced": true,
+      "path": "select/03_사랑의_바보_더_넛츠.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "사랑의 바보",
+      "artist": "더 넛츠(The Nuts)",
+      "has_synced": true,
+      "path": "select/04_사랑의_바보_더_넛츠(The_Nuts).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "사랑의 바보",
+      "artist": "The Nuts",
+      "has_synced": false,
+      "path": "select/pl_01_사랑의_바보_The_Nuts.txt"
+    }
+  ]
+}
